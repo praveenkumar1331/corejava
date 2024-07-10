@@ -5,5 +5,4 @@ public class Myinterface {
 		System.out.println("inner interface");
 		
 	}
-public static void 
 }
